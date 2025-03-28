@@ -1,6 +1,6 @@
-# Elementary Particle Physics
+# Particle Physics
 
-Main GitHub Website for this Book: [BuchEPP.github.io](https://buchepp.github.io)
+Main GitHub Website for this Book: [BookEPP.github.io](https://bookepp.github.io)
 
 Book
 - Elementarteilchenphysik (in german)
